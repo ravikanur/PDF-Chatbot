@@ -1,0 +1,5 @@
+langchain==0.1.9
+gradio==3.50.2
+chromadb==0.4.16
+sentence_transformers
+pypdf
